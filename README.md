@@ -1,2 +1,2 @@
-# Limerence.github.io
+# limerence.github.io
 Portfolio site
